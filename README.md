@@ -377,5 +377,5 @@ src/
 
 ## License
 
-UNLICENSED
+MIT
 
